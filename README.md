@@ -29,7 +29,7 @@ This project covers the **full PCB design cycle**: circuit design, schematic cap
 
 | Schematic | PCB Layout | 3D View |
 |-----------|------------|---------|
-| ![Schematic](images/schematic.png) | ![PCB](images/pcb_layout.png) | ![3D](images/3d_render.png) |
+| ![Schematic](https://github.com/arhamjaffer/auto-cutoff-battery-charger/blob/main/schematic.PNG) | ![PCB](https://github.com/arhamjaffer/auto-cutoff-battery-charger/blob/main/pcb%20view.PNG) | ![3D](https://github.com/arhamjaffer/auto-cutoff-battery-charger/blob/main/AUTO%20CUT%20OFF%20CHARGER%201.png) |
 
 ---
 
