@@ -1,0 +1,226 @@
+Info: Processing symbol 'C1:Capacitor_THT:CP_Radial_D10.0mm_P5.00mm'.
+Info: Processing symbol 'D5:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'D1:Diode_THT:Diode_Bridge_Round_D9.8mm'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'D3:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'C2:Capacitor_THT:CP_Radial_D10.0mm_P5.00mm'.
+Info: Processing symbol 'D4:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-126-3_Vertical'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'RV1:Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical'.
+Info: Processing symbol 'U1:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Add net Net-(D1-+).
+Connected C1 pin 1 to Net-(D1-+).
+Add net GND.
+Connected C1 pin 2 to GND.
+Updated C1 unit metadata.
+Added C2 (footprint 'Capacitor_THT:CP_Radial_D10.0mm_P5.00mm').
+Changed REF** reference designator to C2.
+Changed C2 value from CP_Radial_D10.0mm_P5.00mm to 0.1u.
+Updated C2 symbol association from  to /56a364bd-12a1-40fa-92fe-cfbb3f7a52a9.
+Updated C2 fields.
+Updated C2 sheetname to '/'.
+Updated C2 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Connected C2 pin 2 to GND.
+Connected C2 pin 1 to Net-(D1-+).
+Updated C2 unit metadata.
+Added D1 (footprint 'Diode_THT:Diode_Bridge_Round_D9.8mm').
+Changed REF** reference designator to D1.
+Changed D1 value from Diode_Bridge_Round_D9.8mm to D_Bridge_+-AA.
+Updated D1 symbol association from  to /eaaff1b3-12e8-4192-9365-9c7d884a04ab.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated D1 footprint filters to 'D*Bridge* D*Rectifier*'.
+Add net Net-(J3-Pin_1).
+Connected D1 pin 3 to Net-(J3-Pin_1).
+Connected D1 pin 2 to GND.
+Add net Net-(J3-Pin_2).
+Connected D1 pin 4 to Net-(J3-Pin_2).
+Connected D1 pin 1 to Net-(D1-+).
+Updated D1 unit metadata.
+Added D2 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Changed REF** reference designator to D2.
+Changed D2 value from D_DO-41_SOD81_P10.16mm_Horizontal to 1N4007.
+Updated D2 symbol association from  to /3fd5e17a-aeb0-4379-a209-6c47de3dca29.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated D2 footprint filters to 'D*DO?41*'.
+Add net Net-(D2-A).
+Connected D2 pin 2 to Net-(D2-A).
+Add net Net-(D2-K).
+Connected D2 pin 1 to Net-(D2-K).
+Updated D2 unit metadata.
+Added D3 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Changed REF** reference designator to D3.
+Changed D3 value from D_DO-41_SOD81_P10.16mm_Horizontal to D_Zener.
+Updated D3 symbol association from  to /22c97ef4-d1c0-4477-a4b3-2f4db4632ae0.
+Updated D3 fields.
+Updated D3 sheetname to '/'.
+Updated D3 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated D3 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D3-A).
+Connected D3 pin 2 to Net-(D3-A).
+Connected D3 pin 1 to Net-(D2-K).
+Updated D3 unit metadata.
+Added D4 (footprint 'LED_THT:LED_D5.0mm').
+Changed REF** reference designator to D4.
+Changed D4 value from LED_D5.0mm to LED.
+Updated D4 symbol association from  to /913aa714-7342-4be5-a3e4-62b08563455d.
+Updated D4 fields.
+Updated D4 sheetname to '/'.
+Updated D4 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated D4 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D4 pin 1 to GND.
+Add net Net-(D4-A).
+Connected D4 pin 2 to Net-(D4-A).
+Updated D4 unit metadata.
+Added D5 (footprint 'LED_THT:LED_D5.0mm').
+Changed REF** reference designator to D5.
+Changed D5 value from LED_D5.0mm to LED.
+Updated D5 symbol association from  to /0c066af0-7e06-4518-a8d2-e99298a15d01.
+Updated D5 fields.
+Updated D5 sheetname to '/'.
+Updated D5 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated D5 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D5-A).
+Connected D5 pin 2 to Net-(D5-A).
+Connected D5 pin 1 to GND.
+Updated D5 unit metadata.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02_Pin.
+Updated J1 symbol association from  to /501d5dac-454f-462f-ae78-9c06101bd125.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Add net unconnected-(J1-Pin_1-Pad1).
+Connected J1 pin 1 to unconnected-(J1-Pin_1-Pad1).
+Add net unconnected-(J1-Pin_2-Pad2).
+Connected J1 pin 2 to unconnected-(J1-Pin_2-Pad2).
+Updated J1 unit metadata.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02.
+Updated J2 symbol association from  to /4e441394-5aa9-4835-b58c-ff0ae7c6a881.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Add net Net-(J2-Pin_2).
+Connected J2 pin 2 to Net-(J2-Pin_2).
+Connected J2 pin 1 to GND.
+Updated J2 unit metadata.
+Added C1 (footprint 'Capacitor_THT:CP_Radial_D10.0mm_P5.00mm').
+Added J3 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J3.
+Changed J3 value from PinHeader_1x02_P2.54mm_Vertical to Conn_01x02_Pin.
+Updated J3 symbol association from  to /adb0f4e0-87f5-42a5-ac92-5716db7352ac.
+Updated J3 fields.
+Updated J3 sheetname to '/'.
+Updated J3 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Connected J3 pin 2 to Net-(J3-Pin_2).
+Connected J3 pin 1 to Net-(J3-Pin_1).
+Updated J3 unit metadata.
+Changed REF** reference designator to C1.
+Added Q1 (footprint 'Package_TO_SOT_THT:TO-126-3_Vertical').
+Changed REF** reference designator to Q1.
+Changed Q1 value from TO-126-3_Vertical to BD139.
+Updated Q1 symbol association from  to /03d2a11d-affb-4a8a-939e-a5bd328396d3.
+Updated Q1 fields.
+Updated Q1 sheetname to '/'.
+Updated Q1 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated Q1 footprint filters to 'TO?126*'.
+Connected Q1 pin 3 to Net-(D5-A).
+Connected Q1 pin 2 to Net-(D4-A).
+Add net Net-(Q1-E).
+Connected Q1 pin 1 to Net-(Q1-E).
+Updated Q1 unit metadata.
+Changed C1 value from CP_Radial_D10.0mm_P5.00mm to 1000u.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 220.
+Updated R1 symbol association from  to /a760aa55-0c43-4170-a1b9-a4b63e0a318e.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to Net-(D2-A).
+Connected R1 pin 2 to Net-(Q1-E).
+Updated R1 unit metadata.
+Updated C1 symbol association from  to /5d9f9c33-f66e-4cac-98bf-ada2a795a5b3.
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 2k.
+Updated R2 symbol association from  to /dd20e80d-5722-4e8a-8db3-f8acae9cfe98.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 1 to Net-(D2-A).
+Connected R2 pin 2 to Net-(D5-A).
+Updated R2 unit metadata.
+Updated C1 fields.
+Added R3 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R3.
+Changed R3 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 1k.
+Updated R3 symbol association from  to /665e4e91-c68c-4ac9-bfac-cadcde8762aa.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 2 to Net-(D3-A).
+Connected R3 pin 1 to Net-(D5-A).
+Updated R3 unit metadata.
+Updated C1 sheetname to '/'.
+Added R4 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R4.
+Changed R4 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 10.
+Updated R4 symbol association from  to /2c5ba763-1d44-4e4f-96ff-248b74478f29.
+Updated R4 fields.
+Updated R4 sheetname to '/'.
+Updated R4 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 1 to Net-(D2-K).
+Connected R4 pin 2 to Net-(J2-Pin_2).
+Updated R4 unit metadata.
+Updated C1 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Added RV1 (footprint 'Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical').
+Changed REF** reference designator to RV1.
+Changed RV1 value from Potentiometer_Bourns_3296W_Vertical to 10k.
+Updated RV1 symbol association from  to /c69dd118-9000-4f38-811b-6a84433aff83.
+Updated RV1 fields.
+Updated RV1 sheetname to '/'.
+Updated RV1 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated RV1 footprint filters to 'Potentiometer*'.
+Connected RV1 pin 3 to GND.
+Add net unconnected-(RV1-Pad2).
+Connected RV1 pin 2 to unconnected-(RV1-Pad2).
+Connected RV1 pin 1 to Net-(D2-A).
+Updated RV1 unit metadata.
+Updated C1 footprint filters to 'C_*'.
+Added U1 (footprint 'Package_TO_SOT_THT:TO-220-3_Vertical').
+Changed REF** reference designator to U1.
+Changed U1 value from TO-220-3_Vertical to LM317_TO-220.
+Updated U1 symbol association from  to /fb05da1e-2af8-49fd-b384-62f9b9e2827e.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'AUTO CUT OFF CHARGER.kicad_sch'.
+Updated U1 footprint filters to 'TO?220*'.
+Connected U1 pin 2 to Net-(D2-A).
+Connected U1 pin 1 to Net-(D2-A).
+Connected U1 pin 3 to Net-(D1-+).
+Updated U1 unit metadata.
+
+
+Info: Total warnings: 0, errors: 0.
